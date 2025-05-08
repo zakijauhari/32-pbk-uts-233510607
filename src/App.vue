@@ -4,7 +4,8 @@
       <!-- Sidebar -->
       <aside class="sidebar">
         <div class="sidebar-header">
-          <h1 class="app-title">Manajemen Kegiatan</h1>
+          <h1 class="app-title">Manajemen</h1>
+          <h1 class="app-title">Tugas</h1>
         </div>
         
         <div class="sidebar-filters">
