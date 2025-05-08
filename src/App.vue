@@ -394,7 +394,6 @@ body, html {
   margin-right: 0.5rem;
 }
 
-/* Main Content Styles */
 .main-content {
   flex: 1;
   padding: 2rem;
