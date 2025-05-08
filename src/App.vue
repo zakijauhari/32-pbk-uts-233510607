@@ -226,7 +226,6 @@ body, html {
   position: relative;
 }
 
-/* Futuristic background elements */
 .app-container::before {
   content: '';
   position: absolute;
