@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <div class="app-container">
-      <!-- Sidebar -->
       <aside class="sidebar">
         <div class="sidebar-header">
           <h1 class="app-title">Manajemen</h1>
