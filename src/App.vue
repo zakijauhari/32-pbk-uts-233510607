@@ -211,7 +211,6 @@ body, html {
   overflow: hidden;
 }
 
-/* Penting: override background putih */
 #app {
   background-color: var(--bg-darker);
   min-height: 100vh;
