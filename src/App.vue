@@ -649,7 +649,6 @@ body, html {
   animation: glow 2s infinite;
 }
 
-/* Responsivitas */
 @media (max-width: 1024px) {
   .app-container {
     flex-direction: column;
