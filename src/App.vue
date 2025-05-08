@@ -238,7 +238,6 @@ body, html {
   pointer-events: none;
 }
 
-/* Sidebar Styles */
 .sidebar {
   width: var(--sidebar-width);
   background: var(--bg-gradient);
