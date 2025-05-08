@@ -170,7 +170,6 @@ const formatDate = (timestamp) => {
 </script>
 
 <style>
-/* Reset dan dasar */
 * {
   box-sizing: border-box;
   margin: 0;
