@@ -639,7 +639,6 @@ body, html {
   text-shadow: 0 0 15px rgba(79, 70, 229, 0.5);
 }
 
-/* Animasi dan efek */
 @keyframes glow {
   0% { box-shadow: 0 0 5px rgba(79, 70, 229, 0.3); }
   50% { box-shadow: 0 0 15px rgba(79, 70, 229, 0.5); }
