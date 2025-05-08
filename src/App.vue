@@ -66,7 +66,6 @@
           </div>
         </header>
 
-        <!-- Task List -->
         <section class="task-list-container">
           <div class="task-list-header">
             <h3>{{ getFilterTitle() }}</h3>
