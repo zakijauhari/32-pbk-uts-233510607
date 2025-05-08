@@ -264,6 +264,7 @@ body, html {
   padding: 2rem 1.5rem;
   border-bottom: 1px solid var(--glass-border);
   background: rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 .app-title {
