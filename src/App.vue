@@ -51,7 +51,6 @@
         </div>
       </aside>
 
-      <!-- Main Content -->
       <main class="main-content">
         <header class="main-header">
           <h2>{{ getCurrentDate() }}</h2>
